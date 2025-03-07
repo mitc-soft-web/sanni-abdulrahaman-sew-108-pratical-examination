@@ -1,0 +1,20 @@
+.carousel {
+    margin-top: -110px;
+}
+.baground{
+    background-image: url(./image/photo-4.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+.imagebg{
+    background-image: url(./image/photo-34.jpg);
+
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+footer{
+    margin-top: -17px;
+}
